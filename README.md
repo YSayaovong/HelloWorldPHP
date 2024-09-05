@@ -1,4 +1,5 @@
 HelloWorldPHP
+
 This repository contains a simple PHP application that prints "Hello, World!" to the web page. It's a beginner-level project designed to demonstrate the basics of PHP syntax, structure, and integration with HTML.
 
 Features
